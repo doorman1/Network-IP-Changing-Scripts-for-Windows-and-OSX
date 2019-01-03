@@ -1,0 +1,1 @@
+netsh -c "interface ip" set address name="Ethernet" static 192.168.20.253 255.255.255.0 192.168.20.1 1
