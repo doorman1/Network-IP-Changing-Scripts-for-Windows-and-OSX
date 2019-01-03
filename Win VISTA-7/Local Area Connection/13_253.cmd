@@ -1,0 +1,1 @@
+netsh -c "interface ip" set address name="Local Area Connection" static 192.168.13.253 255.255.255.0 192.168.13.1 1
