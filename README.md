@@ -9,7 +9,7 @@ If you're a networking guy like me, set these up to some hotkeys on your keyboar
 
 Enjoy!
 
--Doorman
+Doorman
 
 d@omit.io
 
